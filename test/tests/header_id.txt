@@ -5,3 +5,9 @@
 ## no ascii 中文
 
 ### special characters � '`"|,.\/
+
+### !leading punctuation
+
+### 4numbers
+
+### سؤال ؟
